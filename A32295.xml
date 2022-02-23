@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties letter to his Parliament in Scotland, assembled October 19, 1669 together with the speech of His Grace the Earl of Lauderdaill ... as also the answer of the Parliament of Scotland to His Majesties gracious letter.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32295</idno>
+            <idno type="STC">Wing C3106_VARIANT</idno>
+            <idno type="STC">ESTC R35914</idno>
+            <idno type="EEBO-CITATION">15578988</idno>
+            <idno type="OCLC">ocm 15578988</idno>
+            <idno type="VID">103883</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32295)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103883)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1184:69)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties letter to his Parliament in Scotland, assembled October 19, 1669 together with the speech of His Grace the Earl of Lauderdaill ... as also the answer of the Parliament of Scotland to His Majesties gracious letter.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>Lauderdale, John Maitland, Duke of, 1616-1682. Speech of His Grace the Earl of Lauderdaill ... delivered in Parliament the ninteenth day of October, 1669.</author>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 2, 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Newcomb,</publisher>
+                  <pubPlace>In the Savoy [London] :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by His Majesties command."</note>
+                  <note>"The speech of His Grace the Earl of Lauderdaill ... delivered in Parliament the ninteenth day of October, 1669" has special t.p.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:103883:1"/>
+                  <!-- PDF PAGE 74 -->
+                  <p>His Majeſties LETTER TO His Parliament in SCOTLAND, <hi>Aſſembled October</hi> 19. 1669.</p>
+                  <p>Together with THE SPEECH OF <hi>His Grace the Earl of</hi> Lauderdaill, HIS Majeſties High-Commiſsioner;</p>
+                  <p>AS ALSO, The Anſwer OF THE PARLIAMENT of <hi>SCOTLAND</hi> TO His Majeſties Gracious LETTER.</p>
+                  <p>Publiſhed by His Majeſties Command.</p>
+                  <p>In the <hi>SAVOY,</hi> Printed by <hi>Tho: Newcomb,</hi> 1669.</p>
+               </div>
+            </front>
+            <body>
+               <div type="letter">
+                  <pb facs="tcp:103883:2"/>
+                  <!-- PDF PAGE 75 -->
+                  <pb n="1" facs="tcp:103883:2"/>
+                  <!-- PDF PAGE 75 -->
+                  <head>His Majeſties <hi>LETTER TO His Parliament in</hi> SCOTLAND, <hi>Aſſembled</hi> 
+                     <date>October 19. 1669.</date>
+                  </head>
+                  <opener>
+                     <salute>My Lords and Gentlemen,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">W</seg>E do often reflect, with thankfulneſs and joy, upon the goodneſs of Almighty God, for reſtoring <g ref="char:V">Ʋ</g>s to Our Kingdoms, and them to their former Liberty, and Peace: and We acknowledge it a further inſtance of Gods Goodneſs, that as he hath filled Our heart with kindneſs towards Our Subjects of that Our Ancient Kingdom, and with a Conſtant Zeal to promote what We judge conducible to their welfare; ſo, he hath bleſt <g ref="char:V">Ʋ</g>s with returns from them of Love, Loy<g ref="char:EOLhyphen"/>alty and ready Complyance with Our Pleaſure on all Occaſions, most ſuitable thereunto: of which Our late Parliament hath given ſignal proofs, as well as Our other good Subjects. And this gives <g ref="char:V">Ʋ</g>s Confidence, that the earneſt deſire We have to render this Iſland more hap<g ref="char:EOLhyphen"/>py than ever it was in times paſt, by ſetling amongſt all Our good Subjects within the ſame, a mutual affection that may endure to all Po<g ref="char:EOLhyphen"/>ſterity, ſhall meet with a free Concurrence from you Our Parliament, whom We have called together chiefly for this end.</p>
+                  <p>
+                     <pb n="2" facs="tcp:103883:3"/>
+                     <!-- PDF PAGE 76 -->
+The bringing of theſe two Kingdoms of <hi>Scotland</hi> and <hi>England,</hi> to as cloſe and ſtrict an <g ref="char:V">Ʋ</g>nion as is poſible, is the means that VVe propoſe, for the effectuating thereof: which as it is the higheſt, and nobleſt deſign VVe can have, for witneſsing Our Royal Affection to them both, ſo the accompliſhment of it will raiſe Our Satisfaction, almoſt, as high as Our Wiſhes. For by the <g ref="char:V">Ʋ</g>nion of the hearts and hands of Our People, not only Our Throne ſhall be ſtrengthned, and they have Peace and Love ſetled amongſt them for ever, but VVe ſhall have the Glory of Accompliſh<g ref="char:EOLhyphen"/>ing what Our Royal Grandfather King <hi>James,</hi> of ever bleſſed Memory, attempted as the greateſt thing he could deviſe, and where<g ref="char:EOLhyphen"/>in He, who was a Competent Judge, placed the Happineſs of the Crown and Kingdoms, and wherein he meant to have gloried as the chiefeſt action of His Life.</p>
+                  <p>VVe have fully inſtructed Our Commiſsio<g ref="char:EOLhyphen"/>ner with Our intentions as to this Subject, and concerning ſuch other matters as ſeem to <g ref="char:V">Ʋ</g>s to be uſeful for the Conſtant peace and welfare of the Church and State in that Our King<g ref="char:EOLhyphen"/>dom. You are to give him full Credit, and He will acquaint <g ref="char:V">Ʋ</g>s with all Matters; and what is farther neceſſary for <g ref="char:V">Ʋ</g>s to do, will be ſpeedily performed. So VVe bid you heartily farewell.</p>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:103883:3"/>
+                  <!-- PDF PAGE 76 -->
+                  <p>THE SPEECH OF HIS GRACE THE Earl of Lauderdaill, His Majeſties High-Commiſsioner For the PARLIAMENT OF SCOTLAND: <hi>Delivered in Parliament</hi> The Ninteenth day of October, 1669.</p>
+                  <p>Publiſhed by His Majeſties Command.</p>
+                  <p>In the <hi>SAVOY,</hi> Printed by <hi>Tho: Newcomb,</hi> 1669.</p>
+               </div>
+            </front>
+            <body>
+               <div type="speech">
+                  <pb facs="tcp:103883:4"/>
+                  <!-- PDF PAGE 77 -->
+                  <pb n="3" facs="tcp:103883:4"/>
+                  <!-- PDF PAGE 77 -->
+                  <head>THE SPEECH OF His Grace the Earl of LAUDER<g ref="char:EOLhyphen"/>DAILL, His Majeſties High-Com<g ref="char:EOLhyphen"/>miſsioner for the Parliament of <hi>Scotland.</hi>
+                  </head>
+                  <opener>
+                     <salute>My Lords and Gentlemen,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">B</seg>Y the Authority of the King, and His ſpecial Command you are here aſſembled in His high Court of Parliament. You have heard His royal Intentions under His own hand, with the chief Reaſons of His calling you together. You have heard His moſt gra<g ref="char:EOLhyphen"/>cious Expreſsions of His kindneſs to His Subjects in this His ancient Kingdom, and His Confidence of you their Repreſentatives; And I ſhall as ſhortly as I can acquaint you with what I have further in com<g ref="char:EOLhyphen"/>mand from my Maſter to ſay in His name at the opening of this His Parliament. And firſt I am to aſſure you of His Majeſties conſtant and unalterable Zeal, for maintaining and defending the true refor<g ref="char:EOLhyphen"/>med Proteſtant Religion in this His Kingdom, for which he will conſtantly lay out His whole Power and Authority, as alſo for diſcouraging and puniſh<g ref="char:EOLhyphen"/>ing all Atheiſm and Profanities, and all that is con<g ref="char:EOLhyphen"/>trary
+<pb n="4" facs="tcp:103883:5"/>
+                     <!-- PDF PAGE 78 -->to true Religion and Godlineſs. I am further particularly commanded to aſſure you, That with no leſs Zeal and Conſtancie He will maintain and de<g ref="char:EOLhyphen"/>fend the ancient Government by Archbiſhops and Biſhops, as now it is happily ſettled, as a ſure fence for the true reformed Proteſtant Religion, A Go<g ref="char:EOLhyphen"/>vernment moſt ſuteable to Monarchy; and well may I call it Ancient, for whoever will look into Anti<g ref="char:EOLhyphen"/>quity ſhall find Epiſcopal Government hath con<g ref="char:EOLhyphen"/>tinued in the whole Catholick Church both Eaſt and Weſt, even from the moſt Primitive and Apo<g ref="char:EOLhyphen"/>ſtolick Times: I ſhall not inſiſt on the ſad Calami<g ref="char:EOLhyphen"/>ties and Confuſions which the violent and rebellious endeavours to overturn this Government produced in this Kingdom; His Majeſties gracious Act of Pardon and Oblivion forbids the ripping up thoſe ſores which His own royal hand hath cured, and long may they be buried in Oblivion: Yet ſure I am, the reflections on thoſe diſmal days ought to raiſe no leſs Zeal in the Parliament, and in all good Sub<g ref="char:EOLhyphen"/>jects for the maintaining of that Government as now it is happily ſettled: For, in His Majeſties name and by His ſpecial command I do aſſure you, He will employ His utmoſt power in the maintenance of that Government, and will protect the perſons of my Lords the Archbiſhops and Biſhops, and of the Loyal, Orthodox and peaceable Clergy in the exerciſe of their functions: He will not endure thoſe numerous and unlawfull Conven<g ref="char:EOLhyphen"/>ticles which tend to Sedition and Schiſm, which have been too frequent in ſome few Shires of this Kingdome: Good Laws have been made; and in proſecution of thoſe Laws, the Lords of His Majeſties Privy Council have ſhown their care for ſuppreſſing thoſe ſeditious Aſſemblies; Yea, and of late His Majeſty has graciouſly indulged the planting of ſome who were eſteemed peaceable
+<pb n="5" facs="tcp:103883:5"/>
+                     <!-- PDF PAGE 78 -->men, in vacant Churches (though they came not up to the rules eſtabliſht.) It will be expected that they walk worthy of ſo great a favour: But if after this removal of the very pretence of unlawful Con<g ref="char:EOLhyphen"/>venticles any factious people ſhall in contempt of His Majeſties Laws; yea, and of His indulgence alſo, ſeditiouſly Aſſemble themſelves under pretence of Religious Worſhip, His Majeſtie doth Require His Parliament, and all in Authority under Him, vigo<g ref="char:EOLhyphen"/>rouſly to ſuppreſs ſuch Meetings, and to bring the pretended Preachers, and the Ring-leaders of ſuch unlawful Aſſemblies, to condign and exemplary puniſhment.</p>
+                  <p>In the next Place, I am commanded to let you know, That I am ſufficiently Inſtructed to give His Majeſties Royal Aſſent to ſuch Laws as ſhall be pre<g ref="char:EOLhyphen"/>pared in this Parliament, for the conſtant Peace and welfare of this Church, and of the Kingdom in all its Relations: But the chief Occaſion of calling this Parliament, is the proſecution of that great and glo<g ref="char:EOLhyphen"/>rious Deſign of bringing His Kingdoms of <hi>Scotland</hi> and <hi>England</hi> to a ſtricter and nearer Union. This De<g ref="char:EOLhyphen"/>ſign was begun by His Royal Grandfather of bleſ<g ref="char:EOLhyphen"/>ſed Memory, who went ſo far on towards this great Work, that in the firſt year of His Reign over Great Britain, King <hi>James</hi> named Commiſſioners for this Kingdom, who by Act of Parliament were authorized to Treat and Conſult with Commiſſio<g ref="char:EOLhyphen"/>ners for the Kingdom of <hi>England,</hi> concerning ſuch an Union: And in purſuance of their Treaty, Acts were made for the Repealing of Hoſtile Laws, and the utter abolition of all memory of Hoſtility between the two Nations: And in the Seventh year of His Raign, it was, by the Judges of all the Courts of <hi>Westminster</hi>-Hall in <hi>England,</hi> ſolemnly adjudged, in the Caſe of the <hi>Post-nati,</hi> that thoſe who after the Deſcent of the Crown of <hi>England</hi> to King
+<pb n="6" facs="tcp:103883:6"/>
+                     <!-- PDF PAGE 79 -->
+                     <hi>James,</hi> were born in <hi>Scotland,</hi> were no Aliens in <hi>England,</hi> and conſequently were capable, not onely of Land, but of all other Immunities, as if they had been born in <hi>England,</hi> ſo much was done in King <hi>James</hi> his time. And the occaſi<g ref="char:EOLhyphen"/>ons of His Majeſties Reſolutions to proſecute this great Work, were theſe, Complaints having been made to His Majeſty, That ſince the 25th day of <hi>March,</hi> in the Twelfth year of His Reign, new duties were impoſed in <hi>England,</hi> upon divers Commodities of the growth, production, and manufacture of <hi>Scotland,</hi> and incapacities laid upon the Sub<g ref="char:EOLhyphen"/>jects of <hi>Scotland:</hi> It pleaſed the King to appoint divers Meetings upon this Matter, though without Succeſs: whereupon the late Parliament of this Kingdom impoſed, in their third Seſſion <hi>Ann.</hi> 1663. great Duties upon the Commodities of the growth, production or manufacture of <hi>England,</hi> which by His Majeſties Command were ſuſpended, and have not been exacted, though the Duties in <hi>England</hi> ſtill continue; and upon His Majeſties recommen<g ref="char:EOLhyphen"/>dation to the Parliament of <hi>England,</hi> an Act was lately made for ſetling freedom and intercourſe of Trade between the two Kingdomes: Whereupon Commiſſioners were nominated and appointed by His Majeſty for both Kingdoms to Treat upon that Affair, who had many Meetings, but produced no effect, unleſs it were a conviction of the Difficulty, if not impoſſibility of ſetling it in any other way, then by a nearer and more compleat Union of the two Kingdoms. His Majeſty is fully perſwaded that nothing can tend more to the good and ſecu<g ref="char:EOLhyphen"/>rity of both Nations, than ſuch an Union. And find<g ref="char:EOLhyphen"/>ing that in His Royal Grandfathers time, ſo great an advance was made towards this Union, and that the continuance under the ſame Obedience for near 70. years, having begotten the ſame common Friends
+<pb n="7" facs="tcp:103883:6"/>
+                     <!-- PDF PAGE 79 -->and common Enimies to both Nations, and taken off a great part of thoſe Difficulties, which at the firſt (notwithſtanding the Union in Obedience to One Soveraign) ſtood in the way. His Majeſty well hopes, that what is yet wanting to the perfecting of it, may be now accompliſh'd, And therefore, in His Majeſties Name, I do moſt heartily recommend this great work unto you; and I doubt not, but you will ſpeedily ſend ſuch an humble Anſwer to His Majeſties moſt gracious Letter, as may witneſs how well grounded that Confidence is, which His Ma<g ref="char:EOLhyphen"/>jeſty hath expreſſed of you. This day the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England</hi> meets, and the King will both Him<g ref="char:EOLhyphen"/>ſelf, and by His Lord Keeper make the like Propo<g ref="char:EOLhyphen"/>ſals (as to the Union) unto both Houſes: And I am confident, that Loyal Parliament, who have all along given ſuch ample Teſtimonies of their Duty and Affection to His Majeſty, will upon this Occa<g ref="char:EOLhyphen"/>ſion make a ſuitable Return to His Propoſals. What is farther to be propoſed upon this Matter, ſhall be offered at your next dayes Meeting: and the King doubts not but that after the meeting of Commiſ<g ref="char:EOLhyphen"/>ſioners for both Kingdoms, thoſe things will be ten<g ref="char:EOLhyphen"/>dered to your conſideration, in order to the Union, as ſhall tend to the Honour of His Majeſty, and the common good of all His Subjects. Theſe things I was commanded, before I came away from His Majeſty to acquaint you with, and I have ſince, upon another Occaſion, received an order in wri<g ref="char:EOLhyphen"/>ting, bearing date the 7th of this Moneth; by which I am again commanded, amply to declare His Ma<g ref="char:EOLhyphen"/>jeſties unchangable Reſolution to maintain <hi>Epiſcopal</hi> Government in the Church. So having begun and ended with this Declaration, I hope both the groundleſs Jealouſies, on the one hand, and the vain and idle hopes on the other ſhall be at an end.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+               <div type="letter">
+                  <pb facs="tcp:103883:7"/>
+                  <!-- PDF PAGE 80 -->
+                  <pb n="9" facs="tcp:103883:7"/>
+                  <!-- PDF PAGE 80 -->
+                  <head>The Anſwer OF THE PARLIAMENT of SCOTLAND, TO <hi>His Majeſties Gracious Letter.</hi>
+                  </head>
+                  <opener>
+                     <salute>Moſt Sacred SOVERAIGN;</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">T</seg>HE Goodneſs of God, in Reſtoring YOUR MAJESTY to Your Government, and there<g ref="char:EOLhyphen"/>by this your Antient King<g ref="char:EOLhyphen"/>dome to its former Liberty and Peace; Hath been, and will ever, with all humble Duty and Thankfulneſs, be Acknowledg<g ref="char:EOLhyphen"/>ed, as the Greateſt Bleſsing we are Capa<g ref="char:EOLhyphen"/>ble of in this World. And, the Many Sin<g ref="char:EOLhyphen"/>gular and Renewed Teſtimonies this King<g ref="char:EOLhyphen"/>dom hath ſince Met with, of Your Father<g ref="char:EOLhyphen"/>ly Care, Kindneſs, and Zeale, to Promove its Welfare and Happineſs in all its Con<g ref="char:EOLhyphen"/>cernes<g ref="char:punc">▪</g> Have ſo Engaged the Hearts and Affections of Your Subjects, That We can with Confidence Aſſure Your Majeſty of a Chearful Concurrence from this King<g ref="char:EOLhyphen"/>dom in Every Thing may Tend to Your
+<pb n="10" facs="tcp:103883:8"/>
+                     <!-- PDF PAGE 81 -->Majeſties Honour, or the Good of Your People.</p>
+                  <p>We do, with the Like Duty and Thank<g ref="char:EOLhyphen"/>fulneſs, Acknowledg Your Majeſties Grace and Goodneſs, in Your Deſires to render this <hi>Iſland</hi> more happy then ever it was in former Times, by Setling among Your good Sub<g ref="char:EOLhyphen"/>jects within the ſame, ſuch a Mutual Affe<g ref="char:EOLhyphen"/>ction, as may endure to all Poſterity. And, ſince the Bringing of Your Two King<g ref="char:EOLhyphen"/>domes of <hi>Scotland</hi> and <hi>England</hi> to as Cloſe and Strict an Union as is poſsible, is the Mean Your Majeſty Propoſes; For Effectua<g ref="char:EOLhyphen"/>ting thereof, We ſhall be Ready to Give Our Hearty-Concurrence therein: And, in Order thereunto are willing that Com<g ref="char:EOLhyphen"/>miſsioners be Appointed for this Kingdom, to Treat with ſuch as ſhall be Employed for the Kingdom of <hi>England,</hi> upon the Grounds and Conditions of this Union: Reſerving alwayes to the Parliament, To whom the Reſolution of theſe Commiſsioners are to be Returned, the Conſideration thereof, and the Allowing or Diſallowing of the ſame, as They ſhall judge fit. And, in Confidence of Your Majeſties moſt Excellent Judg<g ref="char:EOLhyphen"/>ment, and Great Affection in all things Re<g ref="char:EOLhyphen"/>lating to the Happineſs of Your People, whereof this Kingdom hath already had ſo
+<pb n="11" facs="tcp:103883:8"/>
+                     <!-- PDF PAGE 81 -->many Signal Proofs; We do Freely and Heartily offer to Your Majeſty the Nomi<g ref="char:EOLhyphen"/>nation of the Perſons to Treat for this King<g ref="char:EOLhyphen"/>dom, with the Appointing of their Num<g ref="char:EOLhyphen"/>ber, Quorum, Time and Place of their Meeting; And, upon ſignification of Your <hi>Majeſties</hi> Pleaſure therein, We ſhall give ſuch Commiſsions and Orders for Pro<g ref="char:EOLhyphen"/>moveing of the Treaty, as (Reſerving the Full Determination of all to the Parlia<g ref="char:EOLhyphen"/>ment, as aforeſaid) ſhall Witneſs Our Cheerful Complyance with Your <hi>Ma<g ref="char:EOLhyphen"/>jeſties</hi> Deſires.</p>
+                  <p>The Earl of <hi>Lauderdail,</hi> whom Your <hi>Majeſty,</hi> to the Great Satisfaction of Your People, and Intereſt of Your Service, has been pleaſed to Authorize as Your <hi>Com<g ref="char:EOLhyphen"/>miſsioner,</hi> Hath, in Your <hi>Majeſties</hi> Name Renewed to Us the Aſſurances of Your <hi>Majeſties</hi> Care and Reſpect, to the good of this Your Antient Kingdom; For which We do Humbly Return to Your <hi>Majeſty</hi> the Offer of Our Lives and Fortunes, for the advancement of your Majeſties Honor and Greatneſs, and maintenance of Your Royal Authority and Government: And in every thing ſhall be propoſed by him, We ſhall not only give Credit as to Your Commiſsioner, but alſo ſuch Chearfull and
+<pb n="12" facs="tcp:103883:9"/>
+                     <!-- PDF PAGE 82 -->ready Obedience, as may Evidence to the World the Loyalty of Our Hearts: And in Teſtimony hereof, Theſe Preſents are by Warrant, and in Name of Your <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> Signed by</p>
+                  <closer>
+                     <salute>
+                        <hi>Moſt Sacred</hi> SOVERAIGN,</salute> 
+                     <signed>YOUR <hi>MAJESTIES</hi>  Moſt Faithful, Moſt Obedient, and Moſt Humble <hi>Subject</hi> and <hi>Servant,</hi>
+                        <hi>ROTHES,</hi> CANCELL. <hi>in Praeſentia Dominorum</hi> Parliamenti.</signed>
+                     <dateline>Edinbourgh, <date>22 Octob. 1669.</date>
+                     </dateline>
+                  </closer>
+               </div>
+               <trailer>FINIS.</trailer>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
